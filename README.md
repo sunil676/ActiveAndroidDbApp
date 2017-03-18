@@ -3,7 +3,7 @@ Simple and easy database ORM ActiveAndroid
 
 
 
-<img src="https://github.com/sunil676/ActiveAndroidDbApp/blob/master/Screenshot_20170318-135005.png" width="350" height="550"/>
+<img src="https://github.com/sunil676/ActiveAndroidDbApp/blob/master/Screenshot_20170318-135005.png" width="300" height="500"/>
 
 LINK:
 
